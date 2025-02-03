@@ -1,7 +1,3 @@
-  "engines": {
-    "node": "18.x"
-  }
-
 {
   "name": "study-manager-backend",
   "version": "1.0.0",
@@ -9,6 +5,9 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js"
+  },
+  "engines": {
+    "node": "20.x"
   },
   "keywords": [],
   "author": "",
