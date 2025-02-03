@@ -1,3 +1,7 @@
+  "engines": {
+    "node": "18.x"
+  }
+
 {
   "name": "study-manager-backend",
   "version": "1.0.0",
